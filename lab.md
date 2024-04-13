@@ -33,4 +33,4 @@ This is the last assignment for this week. In this assignment, you'll configure 
 ### Artifacts
 1. A GitHub repository with a `.devcontainer` directory with the configuration files for your Codespace.
 2. A `README.md` file that describes the configuration and how to use it.
-3. The repository has to be fully functional with Codespaces and you should be able to run it from the browser.
+3. The repository has to be fully functional with Codespaces and you should  be able to run it from the browser.
